@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "OwnatDinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/OwnatDinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OwnatDinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OwnatDinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../OwnatDinner.Domain/OwnatDinner.Domain.csproj",
+      "msbuildProject": "../OwnatDinner.Domain/OwnatDinner.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "OwnatDinner.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\chilu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Development\\Training\\OwnatDinner\\OwnatDinner\\OwnatDinner.Application\\OwnatDinner.Application.csproj",
+      "projectName": "OwnatDinner.Application",
+      "projectPath": "D:\\Development\\Training\\OwnatDinner\\OwnatDinner\\OwnatDinner.Application\\OwnatDinner.Application.csproj",
+      "packagesPath": "C:\\Users\\chilu\\.nuget\\packages\\",
+      "outputPath": "D:\\Development\\Training\\OwnatDinner\\OwnatDinner\\OwnatDinner.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\chilu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Development\\Training\\OwnatDinner\\OwnatDinner\\OwnatDinner.Domain\\OwnatDinner.Domain.csproj": {
+              "projectPath": "D:\\Development\\Training\\OwnatDinner\\OwnatDinner\\OwnatDinner.Domain\\OwnatDinner.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
