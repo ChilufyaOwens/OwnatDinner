@@ -1,0 +1,12 @@
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\bin\Debug\net8.0\OwnatDinner.Contracts.deps.json
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\bin\Debug\net8.0\OwnatDinner.Contracts.dll
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\bin\Debug\net8.0\OwnatDinner.Contracts.pdb
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\obj\Debug\net8.0\OwnatDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\obj\Debug\net8.0\OwnatDinner.Contracts.AssemblyInfoInputs.cache
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\obj\Debug\net8.0\OwnatDinner.Contracts.AssemblyInfo.cs
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\obj\Debug\net8.0\OwnatDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\obj\Debug\net8.0\OwnatDinner.Contracts.sourcelink.json
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\obj\Debug\net8.0\OwnatDinner.Contracts.dll
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\obj\Debug\net8.0\refint\OwnatDinner.Contracts.dll
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\obj\Debug\net8.0\OwnatDinner.Contracts.pdb
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Contracts\obj\Debug\net8.0\ref\OwnatDinner.Contracts.dll

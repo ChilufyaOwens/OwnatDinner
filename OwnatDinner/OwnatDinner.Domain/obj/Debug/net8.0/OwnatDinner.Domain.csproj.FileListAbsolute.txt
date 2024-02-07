@@ -1,0 +1,12 @@
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\bin\Debug\net8.0\OwnatDinner.Domain.deps.json
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\bin\Debug\net8.0\OwnatDinner.Domain.dll
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\bin\Debug\net8.0\OwnatDinner.Domain.pdb
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\obj\Debug\net8.0\OwnatDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\obj\Debug\net8.0\OwnatDinner.Domain.AssemblyInfoInputs.cache
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\obj\Debug\net8.0\OwnatDinner.Domain.AssemblyInfo.cs
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\obj\Debug\net8.0\OwnatDinner.Domain.csproj.CoreCompileInputs.cache
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\obj\Debug\net8.0\OwnatDinner.Domain.sourcelink.json
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\obj\Debug\net8.0\OwnatDinner.Domain.dll
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\obj\Debug\net8.0\refint\OwnatDinner.Domain.dll
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\obj\Debug\net8.0\OwnatDinner.Domain.pdb
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Domain\obj\Debug\net8.0\ref\OwnatDinner.Domain.dll

@@ -1,0 +1,16 @@
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\bin\Debug\net8.0\OwnatDinner.Application.deps.json
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\bin\Debug\net8.0\OwnatDinner.Application.dll
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\bin\Debug\net8.0\OwnatDinner.Application.pdb
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\bin\Debug\net8.0\OwnatDinner.Domain.dll
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\bin\Debug\net8.0\OwnatDinner.Domain.pdb
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\OwnatDinner.Application.csproj.AssemblyReference.cache
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\OwnatDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\OwnatDinner.Application.AssemblyInfoInputs.cache
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\OwnatDinner.Application.AssemblyInfo.cs
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\OwnatDinner.Application.csproj.CoreCompileInputs.cache
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\OwnatDinner.Application.sourcelink.json
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\OwnatDinner.Application.csproj.CopyComplete
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\OwnatDinner.Application.dll
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\refint\OwnatDinner.Application.dll
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\OwnatDinner.Application.pdb
+D:\Development\Training\OwnatDinner\OwnatDinner\OwnatDinner.Application\obj\Debug\net8.0\ref\OwnatDinner.Application.dll

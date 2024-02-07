@@ -1,0 +1,10 @@
+@OwnatDinner.Api_HostAddress = http://localhost:5161
+POST {{OwnatDinner.Api_HostAddress}}/api/authentication/login
+Content-Type: application/json
+
+{
+  "email": "chilufya@ownat.com",
+  "password": "Kenzie!"
+}
+
+###
