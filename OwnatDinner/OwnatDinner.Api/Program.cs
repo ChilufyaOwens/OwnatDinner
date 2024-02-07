@@ -1,20 +1,38 @@
+using Asp.Versioning;
+using OwnatDinner.Application;
+
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    builder.Services.AddControllers();
+    builder.Services.AddApplication();
+
+    var apiVersioningBuilder =builder.Services.AddApiVersioning(option =>
+    {
+        option.AssumeDefaultVersionWhenUnspecified = true;
+        option.DefaultApiVersion = new ApiVersion(1, 0);
+        option.ReportApiVersions = true;
+        option.ApiVersionReader = ApiVersionReader.Combine(
+            new QueryStringApiVersionReader("api-version"),
+            new HeaderApiVersionReader("X-version"),
+            new MediaTypeApiVersionReader("ver"));
+    });
+
+    apiVersioningBuilder.AddApiExplorer(options =>
+    {
+        options.GroupNameFormat = "'v'VVV";
+        options.SubstituteApiVersionInUrl = true;
+
+    });
+
+
 }
 
-app.UseHttpsRedirection();
+var app = builder.Build();
+{
+    app.UseHttpsRedirection();
+    app.MapControllers();
+    app.Run();
+}
 
 var summaries = new[]
 {
@@ -33,10 +51,10 @@ app.MapGet("/weatherforecast", () =>
             .ToArray();
         return forecast;
     })
-    .WithName("GetWeatherForecast")
-    .WithOpenApi();
+    .WithName("GetWeatherForecast");
+   
 
-app.Run();
+
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {

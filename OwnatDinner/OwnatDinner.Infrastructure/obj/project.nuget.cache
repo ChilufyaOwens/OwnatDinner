@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "l8Ezj9Hec3q+XsOL6SjoTFNKkUeEPOxPl50rqiqYtIF/5MM5T/q3BdPcwLXNXbnKTmUjHvw/wpGSs0U+/UE6mw==",
+  "dgSpecHash": "HBAyvjAN1sJDqDVpI/pYgKt877h9DNoAvOmabT2944FlamboWzIgjb91DZoBDlDIZXlPdN6Em+bMCvh1EPBOKQ==",
   "success": true,
   "projectFilePath": "D:\\Development\\Training\\OwnatDinner\\OwnatDinner\\OwnatDinner.Infrastructure\\OwnatDinner.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\chilu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

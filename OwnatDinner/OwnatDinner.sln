@@ -5,30 +5,20 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{93A5E1F5-E1B1-459E-9243-46909371049F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnatDinner.Api", "OwnatDinner.Api\OwnatDinner.Api.csproj", "{D51787DD-061E-428E-852B-8985C4A9DF7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OwnatDinner.Api", "OwnatDinner.Api\OwnatDinner.Api.csproj", "{D51787DD-061E-428E-852B-8985C4A9DF7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnatDinner.Contracts", "OwnatDinner.Contracts\OwnatDinner.Contracts.csproj", "{509A6B92-25B3-4566-987A-429EA68296EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OwnatDinner.Contracts", "OwnatDinner.Contracts\OwnatDinner.Contracts.csproj", "{509A6B92-25B3-4566-987A-429EA68296EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnatDinner.Application", "OwnatDinner.Application\OwnatDinner.Application.csproj", "{FB4008C0-74F5-4309-9595-F2CF9739ECCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OwnatDinner.Application", "OwnatDinner.Application\OwnatDinner.Application.csproj", "{FB4008C0-74F5-4309-9595-F2CF9739ECCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnatDinner.Infrastructure", "OwnatDinner.Infrastructure\OwnatDinner.Infrastructure.csproj", "{22D8904B-5E61-4B9C-A147-1BEF50EEE146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OwnatDinner.Infrastructure", "OwnatDinner.Infrastructure\OwnatDinner.Infrastructure.csproj", "{22D8904B-5E61-4B9C-A147-1BEF50EEE146}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnatDinner.Domain", "OwnatDinner.Domain\OwnatDinner.Domain.csproj", "{290CB775-0F49-487B-8509-2297055E6C87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OwnatDinner.Domain", "OwnatDinner.Domain\OwnatDinner.Domain.csproj", "{290CB775-0F49-487B-8509-2297055E6C87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{D51787DD-061E-428E-852B-8985C4A9DF7D} = {93A5E1F5-E1B1-459E-9243-46909371049F}
-		{509A6B92-25B3-4566-987A-429EA68296EA} = {93A5E1F5-E1B1-459E-9243-46909371049F}
-		{FB4008C0-74F5-4309-9595-F2CF9739ECCB} = {93A5E1F5-E1B1-459E-9243-46909371049F}
-		{22D8904B-5E61-4B9C-A147-1BEF50EEE146} = {93A5E1F5-E1B1-459E-9243-46909371049F}
-		{290CB775-0F49-487B-8509-2297055E6C87} = {93A5E1F5-E1B1-459E-9243-46909371049F}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D51787DD-061E-428E-852B-8985C4A9DF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -51,5 +41,18 @@ Global
 		{290CB775-0F49-487B-8509-2297055E6C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{290CB775-0F49-487B-8509-2297055E6C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{290CB775-0F49-487B-8509-2297055E6C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D51787DD-061E-428E-852B-8985C4A9DF7D} = {93A5E1F5-E1B1-459E-9243-46909371049F}
+		{509A6B92-25B3-4566-987A-429EA68296EA} = {93A5E1F5-E1B1-459E-9243-46909371049F}
+		{FB4008C0-74F5-4309-9595-F2CF9739ECCB} = {93A5E1F5-E1B1-459E-9243-46909371049F}
+		{22D8904B-5E61-4B9C-A147-1BEF50EEE146} = {93A5E1F5-E1B1-459E-9243-46909371049F}
+		{290CB775-0F49-487B-8509-2297055E6C87} = {93A5E1F5-E1B1-459E-9243-46909371049F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22B21D31-17A0-4DD0-B39C-E817A800D4A2}
 	EndGlobalSection
 EndGlobal
