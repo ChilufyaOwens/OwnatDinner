@@ -1,10 +1,12 @@
 using Asp.Versioning;
 using OwnatDinner.Application;
+using OwnatDinner.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
     builder.Services.AddControllers();
-    builder.Services.AddApplication();
+    builder.Services.AddApplication()
+        .AddInfrastructure();
 
     var apiVersioningBuilder =builder.Services.AddApiVersioning(option =>
     {
